@@ -1,0 +1,27 @@
+{
+  "name": "node-string-module",
+  "version": "0.1.0",
+  "description": "A simple node module that provides methods for string manipulations.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzochukwueddie/node-string-module.git"
+  },
+  "keywords": [
+    "string",
+    "string",
+    "methods",
+    "reverse",
+    "longest",
+    "repeat"
+  ],
+  "author": "Uzochukwu Eddie Odozi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uzochukwueddie/node-string-module/issues"
+  },
+  "homepage": "https://github.com/uzochukwueddie/node-string-module#readme"
+}
